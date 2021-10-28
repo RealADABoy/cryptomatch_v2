@@ -22,6 +22,7 @@ DB wishlist
 - addresses as unique indexes (where appropriate, i.e. CA for `post` table)
 - auto inc. integers
 - timestamps
+- user presented info (we have isLiked, but what if the user was shown something and they did not take an action?)
 
 
 # Roadmap
