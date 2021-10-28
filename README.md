@@ -24,6 +24,10 @@ DB wishlist
 - timestamps
 - user presented info (we have isLiked, but what if the user was shown something and they did not take an action?)
 
+Beyond DB
+- user engagement metrics
+- recommender systems
+
 
 # Roadmap
 
