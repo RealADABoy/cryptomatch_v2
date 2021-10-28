@@ -25,7 +25,7 @@ DB wishlist
 - user presented info (we have isLiked, but what if the user was shown something and they did not take an action?)
 
 Beyond DB
-- admin config plane - config by API (so robots can control configs)
+- admin config plane & API (so robots can control configs)
 - user engagement metrics
 - recommender systems
 
