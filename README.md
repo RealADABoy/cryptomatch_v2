@@ -18,3 +18,8 @@
 - Buy now option / Swap
 
 
+# Roadmap
+
+- Complete v2 api specification by November 20, 2021
+- Complete v2 backend by December 15, 2021
+- Release iOS app, web, and at least one TV platform (roku, apple tv) by Jan 1, 2022.
