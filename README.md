@@ -18,6 +18,11 @@
 - Buy now option / Swap
 - opt in "find users like me"
 
+DB wishlist
+- addresses as unique indexes
+- auto inc. integers
+- timestamps
+
 
 # Roadmap
 
