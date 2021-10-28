@@ -19,7 +19,7 @@
 - opt in "find users like me"
 
 DB wishlist
-- addresses as unique indexes (where appropriate, i.e. CA for `post` table
+- addresses as unique indexes (where appropriate, i.e. CA for `post` table)
 - auto inc. integers
 - timestamps
 
