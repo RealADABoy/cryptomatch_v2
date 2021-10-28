@@ -16,6 +16,7 @@
 - Add top alts / cryptos
 - Charts
 - Buy now option / Swap
+- opt in "find users like me"
 
 
 # Roadmap
