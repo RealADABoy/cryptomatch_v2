@@ -10,7 +10,7 @@
 - alerts for users when new suitable project lists
 - methods for project owners to contact users who like them
 - can have "I am a developer" mode so projects can find workers
-- production API layer (data service layer)
+- production data service / aggregates api layer
 - opt in cookies, emails etc. opt in PII
 - Price tracking / Market Cap tracking
 - Add top alts / cryptos
