@@ -5,7 +5,7 @@
 - Improved UX design
 - Improved Performance
 - Option to login with Guest Account
-- Redo schema
+- Proof of burn as listing criterion
 - iOS, android, and web, watch, and TVoS apps
 - alerts for users when new suitable project lists
 - methods for project owners to contact users who like them
