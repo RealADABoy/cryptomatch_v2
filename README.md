@@ -1,6 +1,8 @@
 # Cryptomatch v2 feature list
 
 
+- intro survey for new users to gauge interest
+- decoupling app logic from filters (perhaps, transition to a scoring system) 
 - Improved UI design
 - Improved UX design
 - Improved Performance
