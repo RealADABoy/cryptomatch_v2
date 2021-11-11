@@ -19,6 +19,8 @@
 
 5 deploy `datalake` (mongodb nreplacs 2)
 
+5a do deployment automation, github actions + ...?
+
 6 deploy `ETL-recommender`
 
 7 deploy model generating services
