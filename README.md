@@ -3,6 +3,9 @@
 
 
 # API TODO
+
+0 spin up 4 more VPS
+
 1 v2 mysql EDR finailzation
 
 2 `restapi_cryptomatch_v2` api spec and endpoint definitions
