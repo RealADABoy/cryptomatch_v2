@@ -4,19 +4,29 @@
 
 # API TODO
 1 v2 mysql EDR finailzation
+
 2 `restapi_cryptomatch_v2` api spec and endpoint definitions
+
     * scoring instead of filters
     * timestamps
     * no deletions
     * supports client authentication
     * distributed, resillient
+    
 3 deploy `restapi_external_data_manager`
+
 4 deploy `restapi_cryptomatch_v2`
+
 5 deploy `datalake` (mongodb nreplacs 2)
+
 6 deploy `ETL-recommender`
+
 7 deploy model generating services
+
 8 deploy `restapi_recommender`
+
 9 deploy `restapi_alert_manager`
+
 
 
 
