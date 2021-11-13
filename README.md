@@ -1,5 +1,8 @@
 # Cryptomatch v2 feature list
 
+This repository is will no longer be developed due to a handoff of the development activity.  It will remain here for historical reasons.
+
+
 
 
 # API TODO
